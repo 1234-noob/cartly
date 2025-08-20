@@ -1,0 +1,3 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/1234-noob/cartly-api-gateway.git
